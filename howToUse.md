@@ -6,7 +6,7 @@
   <li>open up any browser and search localhost:3000/</li>
   <li>by defualt, no one has an account so whatever you try to input will give you an error</li>
   <li>down by the bottom you should see a link to the sign up page, click it</li>
-  <li>once you signed up and clicked the submit button, you should see in the vscode integrated terminal (or any type of terminal) that is says the name, email, password
+  <li>once you signed up and clicked the submit button, you should see in the vscode integrated terminal (or any type of terminal) that it says the name, email, password
   </li>
   <li>you have been taken to the sign-in page, enter the exact same crednetials as the one you used to sign up</li>
   <li>if all goes well, it should say "good day + username"</li>
