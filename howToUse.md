@@ -10,7 +10,7 @@
   </li>
   <li>you have been taken to the sign-in page, enter the exact same crednetials as the one you used to sign up</li>
   <li>if all goes well, it should say "good day + username"</li>
-  <li>else if you used an account that hasn't been signed in yet or used the wrong credentials, it will tell you so in the browser</li>
+  <li>else if you used an account that hasn't been signed up yet or used the wrong credentials, it will tell you so in the browser</li>
 </lo>
 <h1>By any means you are welcomed to collaborate with me on this project (basically fork it and modify it and send me a request)</h1>
 <br>
